@@ -1,0 +1,146 @@
+[
+    {
+        "id" : "1",
+        "name" : "Canon MG2570S",
+        "price" : 3599,
+        "rating" : 3.7,
+        "category":"Black, Ink Cartridge",
+        "offer" : "Upto ₹400 Off on Exchange",
+        "image" : "https://rukminim1.flixcart.com/image/416/416/xif0q/printer/z/y/j/-original-imafbu3yybjz4uz3.jpeg?q=70"
+    },
+    {
+        "id" : "2",
+        "name" : "Canon PIXMA E3370",
+        "price" : 5769,
+        "rating" : 3.9,
+        "category":"Black, Ink Cartridge",
+        "offer" : "Upto ₹600 Off on Exchange",
+        "image" : "https://rukminim1.flixcart.com/image/416/416/k4a7c7k0/printer/y/j/z/canon-e3370-original-imafn2wyyxjjvzd6.jpeg?q=70"
+    },
+    {
+        "id" : "3",
+        "name" : "HP Smart Tank 500",
+        "price" : 11299,
+        "rating" : 3.1,
+        "category":"Black, Ink Cartridge",
+        "offer" : "Upto ₹800 Off on Exchange",
+        "image" : "https://rukminim1.flixcart.com/image/416/416/xif0q/printer/b/h/a/-original-imagzyb5hj3btbak.jpeg?q=70"
+    },
+    {
+        "id" : "4",
+        "name" : "Canon G2012",
+        "price" : 6099,
+        "rating" : 3.5,
+        "category":"Black, Ink Cartridge",
+        "offer" : "Upto ₹900 Off on Exchange",
+        "image" : "https://rukminim1.flixcart.com/image/416/416/klgx0280/printer/y/d/k/g2012-canon-original-imagyh8sqwuqzk7y.jpeg?q=70"
+    },
+    {
+        "id" : "5",
+        "name" : "HP DeskJet 2723",
+        "price" : 5999,
+        "rating" : 4.5,
+        "category":"Black, Ink Cartridge",
+        "offer" : "Upto ₹500 Off on Exchange",
+        "image" : "https://rukminim1.flixcart.com/image/416/416/xif0q/printer/r/6/t/-original-imagnuwezn8c5nmg.jpeg?q=70"
+    },
+    {
+        "id" : "6",
+        "name" : "HP Smart Tank 589",
+        "price" : 14999,
+        "rating" : 4.3,
+        "category":"Black, Ink Cartridge",
+        "offer" : "Upto ₹700 Off on Exchange",
+        "image" : "https://rukminim1.flixcart.com/image/416/416/xif0q/printer/c/a/9/smart-tank-all-in-one-589-hp-original-imagkqjq7vh73dkh.jpeg?q=70"
+    },
+    {
+        "id" : "7",
+        "name" : "HP DeskJet 2331",
+        "price" : 4099,
+        "rating" : 4.7,
+        "category":"Black, Ink Cartridge",
+        "offer" : "Upto ₹400 Off on Exchange",
+        "image" : "https://rukminim1.flixcart.com/image/416/416/xif0q/printer/e/n/x/-original-imagnuwemgbmc6ay.jpeg?q=70"
+    },
+    {
+        "id" : "8",
+        "name" : "Canon MG2570S",
+        "price" : 9599,
+        "rating" : 4.9,
+        "category":"Black, Ink Cartridge",
+        "offer" : "Upto ₹400 Off on Exchange",
+        "image" : "https://rukminim1.flixcart.com/image/416/416/xif0q/printer/z/y/j/-original-imafbu3yybjz4uz3.jpeg?q=70"
+    },
+    {
+        "id" : "9",
+        "name" : "HP DeskJet 4178",
+        "price" : 7499,
+        "rating" : 2.7,
+        "category":"Black, Ink Cartridge",
+        "offer" : "Upto ₹800 Off on Exchange",
+        "image" : "https://rukminim1.flixcart.com/image/416/416/xif0q/printer/f/4/k/-original-imagnuwefsvxhvvx.jpeg?q=70"
+    },
+    {
+        "id" : "10",
+        "name" : "Canon PIXMA MG3070S",
+        "price" : 4549,
+        "rating" : 2.4,
+        "category":"Black, Ink Cartridge",
+        "offer" : "Upto ₹900 Off on Exchange",
+        "image" : "https://rukminim1.flixcart.com/image/416/416/joonafk0/printer/w/g/g/canon-pixma-mg3070s-original-imafaxu5zvg8ftgp.jpeg?q=70"
+    },
+    {
+        "id" : "11",
+        "name" : "HP MFP 138fnw",
+        "price" : 20399,
+        "rating" : 2.9,
+        "category":"Black, Ink Cartridge",
+        "offer" : "Upto ₹300 Off on Exchange",
+        "image" : "https://rukminim1.flixcart.com/image/416/416/xif0q/printer/w/y/w/-original-imagnuwexgv5p3mk.jpeg?q=70"
+    },
+    {
+        "id" : "12",
+        "name" : "Canon PIXMA E3370",
+        "price" : 12769,
+        "rating" : 2.5,
+        "category":"Black, Ink Cartridge",
+        "offer" : "Upto ₹600 Off on Exchange",
+        "image" : "https://rukminim1.flixcart.com/image/416/416/k4a7c7k0/printer/y/j/z/canon-e3370-original-imafn2wyyxjjvzd6.jpeg?q=70"
+    },
+    {
+        "id" : "13",
+        "name" : "HP Laser MFP 136w",
+        "price" : 18299,
+        "rating" : 1.2,
+        "category":"Black, Ink Cartridge",
+        "offer" : "Upto ₹500 Off on Exchange",
+        "image" : "https://rukminim1.flixcart.com/image/416/416/kb2jmvk0/printer/d/y/w/hp-mfp-136w-original-imafsg2z87hccmgu.jpeg?q=70"
+    },
+    {
+        "id" : "14",
+        "name" : "HP DeskJet 2332",
+        "price" : 3899,
+        "rating" : 1.7,
+        "category":"Black, Ink Cartridge",
+        "offer" : "Upto ₹600 Off on Exchange",
+        "image" : "https://rukminim1.flixcart.com/image/416/416/xif0q/printer/c/w/p/-original-imagzyb5pum9akm3.jpeg?q=70"
+    },
+    {
+        "id" : "15",
+        "name" : "Canon G2012",
+        "price" : 12099,
+        "rating" : 1.4,
+        "category":"Black, Ink Cartridge",
+        "offer" : "Upto ₹900 Off on Exchange",
+        "image" : "https://rukminim1.flixcart.com/image/416/416/klgx0280/printer/y/d/k/g2012-canon-original-imagyh8sqwuqzk7y.jpeg?q=70"
+    },
+    {
+        "id" : "16",
+        "name" : "Canon G2012",
+        "price" : 3099,
+        "rating" : 1.6,
+        "category":"Black, Ink Cartridge",
+        "offer" : "Upto ₹900 Off on Exchange",
+        "image" : "https://rukminim1.flixcart.com/image/416/416/klgx0280/printer/y/d/k/g2012-canon-original-imagyh8sqwuqzk7y.jpeg?q=70"
+    }
+]
